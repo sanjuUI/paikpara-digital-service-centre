@@ -1,0 +1,6 @@
+{
+  "name": "Paikpara Digital Service Centre",
+  "description": "Paikpara Digital Service Centre in Paikpara, Munshirhat, Howrah. Xerox, Print, Scan, Online Form Fill-up, Aadhaar, PAN, Passport, Ticket Booking, Bill Payment and Website Development services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
